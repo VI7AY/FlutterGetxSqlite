@@ -1,0 +1,2 @@
+# FlutterGetxSqlite
+Flutter Getx Sqlite
